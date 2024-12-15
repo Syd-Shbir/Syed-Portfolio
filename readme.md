@@ -36,7 +36,7 @@ I’m driven by curiosity and a love for solving real-world problems using **dat
 
 Here are some of the exciting projects I’ve worked on (Add your actual projects with links):
 
-1. **📊 [Predicting Crime Rates in Chicago](#)** - Intelligent crime prediction model analyzing temporal and spatial trends in Chicago to forecast crime types, locations, and times..
+1. **📊 [Predicting Crime Rates in Chicago](#)** - An intelligent crime prediction project leveraging Chicago's crime dataset to analyze trends over time and space, forecast crime types, locations, and timings, and provide actionable insights for law enforcement and community safety.
 2. **🧠 [Project Name 2](#)** - TBD.
 3. **📈 [Project Name 3](#)** - TBD. 
 
