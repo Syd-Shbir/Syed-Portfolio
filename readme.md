@@ -30,7 +30,6 @@ I’m driven by curiosity and a love for solving real-world problems using **dat
 🔗 **LinkedIn:** [https://linkedin.com/in/sshabbir](https://www.linkedin.com/in/sshabbir/)  
 📂 **GitHub:** [https://github.com/Syd-Shbir](https://github.com/Syd-Shbir/Syed-Portfolio/tree/main) 
 
-https://github.com/Syd-Shbir
 ---
 
 ## 📂 Portfolio Projects
