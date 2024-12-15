@@ -28,8 +28,9 @@ I’m driven by curiosity and a love for solving real-world problems using **dat
 
 💌 **Email:** [syd.shbir@gmail.com](mailto:syd.shbir@gmail.com)  
 🔗 **LinkedIn:** [https://linkedin.com/in/sshabbir](https://www.linkedin.com/in/sshabbir/)  
-📂 **GitHub:** [GitHub Portfolio](https://github.com/Syd-Shbir/Syed-Portfolio/tree/main) 
+📂 **GitHub:** [https://github.com/Syd-Shbir](https://github.com/Syd-Shbir/Syed-Portfolio/tree/main) 
 
+https://github.com/Syd-Shbir
 ---
 
 ## 📂 Portfolio Projects
