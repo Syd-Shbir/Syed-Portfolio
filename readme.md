@@ -34,10 +34,10 @@ I’m driven by curiosity and a love for solving real-world problems using **dat
 
 ## 📂 Portfolio Projects
 
-Here are some of the exciting projects I’ve worked on (Add your actual projects with links):
+Here are some of the exciting projects I’ve worked on:
 
-1. **📊 [Predicting Crime Rates in Chicago](#)** - An intelligent crime prediction project leveraging Chicago's crime dataset to analyze trends over time and space, forecast crime types, locations, and timings, and provide actionable insights for law enforcement and community safety.
-2. **🧠 [Club-Soccer-Predictions-Using-SPI](#)** - A predictive football analysis project using historical Soccer Power Index (SPI) data to forecast team performance, identify trends across leagues, and predict rankings for 2029. This project leverages advanced modeling techniques to provide actionable insights for team strategy, league comparisons, and performance optimization..
+1. **🦹 [Predicting Crime Rates in Chicago](https://github.com/Syd-Shbir/Chicago_Crime_Rate_Analysis)** - An intelligent crime prediction project leveraging Chicago's crime dataset to analyze trends over time and space, forecast crime types, locations, and timings, and provide actionable insights for law enforcement and community safety.
+2. **⚽ [Club-Soccer-Predictions-Using-SPI](https://github.com/Syd-Shbir/Club-Soccer-Predictions-Using-SPI)** - A predictive football analysis project using historical Soccer Power Index (SPI) data to forecast team performance, identify trends across leagues, and predict rankings for 2029. This project leverages advanced modeling techniques to provide actionable insights for team strategy, league comparisons, and performance optimization..
 3. **📈 [Project Name 3](#)** - TBD. 
 
 ---
